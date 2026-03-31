@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Хот доги",
+    "image": "images/1.png",
+    "description": "370р. Ну такое",
+    "tier": "C",
+    "date": {
+      "day": 31,
+      "month": 3,
+      "year": 2026
+    }
+  },
+  {
+    "id": 2,
+    "name": "Бурито",
+    "image": "images/2.png",
+    "description": "500р. Ебейшее бурито было ваще. Илья Вознюк умер от бурито с кукурузой.",
+    "tier": "S",
+    "date": {
+      "day": 25,
+      "month": 3,
+      "year": 2026
+    }
+  },
+  {
+    "id": 3,
+    "name": "Бургеры",
+    "image": "images/3.png",
+    "description": "не помню лол",
+    "tier": "B",
+    "date": {
+      "day": 25,
+      "month": 1,
+      "year": 2026
+    }
+  },
+  {
+    "id": 4,
+    "name": "Тако",
+    "image": "images/4.png",
+    "description": "420р. Ну ваще не плохо. Курицу потом не могли додепнуть месяц.",
+    "tier": "A",
+    "date": {
+      "day": 10,
+      "month": 3,
+      "year": 2026
+    }
+  }
+]
